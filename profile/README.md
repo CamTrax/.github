@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo2.png" alt="CamTrax Logo" width="100">
+  <img src="https://github.com/CamTrax/CamTrax_Blender_Addon/raw/main/assets/logo2.png" alt="CamTrax Logo" width="100">
   <h1><a href="https://camtrax.io" style="text-decoration: none; color: inherit;">CamTrax</a></h1>
 </div>
 
